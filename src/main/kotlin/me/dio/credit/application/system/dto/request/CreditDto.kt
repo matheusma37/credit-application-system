@@ -1,4 +1,4 @@
-package me.dio.credit.application.system.dto
+package me.dio.credit.application.system.dto.request
 
 import jakarta.validation.constraints.Future
 import jakarta.validation.constraints.Max
