@@ -20,7 +20,6 @@ import java.math.BigDecimal
 import java.time.LocalDate
 import java.util.*
 
-@ActiveProfiles("test")
 @ExtendWith(MockKExtension::class)
 class CreditServiceTest {
     @MockK lateinit var customerService: CustomerService
